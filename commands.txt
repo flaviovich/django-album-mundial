@@ -7,3 +7,4 @@ pip install djangorestframework-simplejwt
 heroku config --app album-mundial-flavio
 heroku config:set DB_NAME=lkt27hkesdx1d5x3 --app album-mundial-flavio
 heroku config:set DB_PORT=3306 DB_HOST=qvti2nukhfiig51b.cbetxkdyhwsb.us-east-1.rds.amazonaws.com DB_USER=j8bbpjzzbpzpdpia DB_PASSWORD=aa88yr3q0ud7bzlu --app album-mundial-flavio
+heroku config:set EMAIL_USERNAME=ederiveroman@gmail.com EMAIL_PASSWORD=qelnarzqtbjjiyri --app album-mundial-flavio
